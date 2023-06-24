@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on becoming a DevOps Engineer
 - 🌱 I’m currently learning Python and Linux
 - 👯 I’m looking to collaborate on DevOps and Cloud Projects.
-- 🤔 I’m looking for help with Python and CLoud projects.
+- 🤔 I’m looking for help with Python and Cloud projects.
 - 💬 Ask me about Python and Cloud Technologies
 - 📫 How to reach me: muanya.steve@gmail.com
 - 😄 Pronouns: She/Her
